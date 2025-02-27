@@ -110,7 +110,7 @@ To maximize the benefits of collaborative AI in prompt engineering, consider the
 ```markdown 
 
 ```mermaid
-flowchart TD
+graph TD;
     subgraph "Definition and Approach"
         A1[AI Analysis] --> |Process large datasets| A2[Pattern Identification]
         A2 --> A3[Initial Prompt Generation]
